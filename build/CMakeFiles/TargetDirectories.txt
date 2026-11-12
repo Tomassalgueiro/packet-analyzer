@@ -1,3 +1,0 @@
-/home/guinhas/projects/packet-analyzer/build/CMakeFiles/packet-analyzer.dir
-/home/guinhas/projects/packet-analyzer/build/CMakeFiles/edit_cache.dir
-/home/guinhas/projects/packet-analyzer/build/CMakeFiles/rebuild_cache.dir
