@@ -16,7 +16,6 @@ pkg_check_modules(PCAP REQUIRED IMPORTED_TARGET libpcap)
 
 add_executable(packet-analyzer
     src/main.cpp
-    src/capture/PacketCapture.cpp
 )
 
 target_include_directories(packet-analyzer
