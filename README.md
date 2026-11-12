@@ -1,3 +1,9 @@
 # Packet-Analyzer
 
-This is a simple wireshark-like pakcet analyzer
+This is a wireshark-like pakcet analyzer
+
+# Prerequisites
+
+- libpcap
+- CMake
+
